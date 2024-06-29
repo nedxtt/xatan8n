@@ -1,0 +1,61 @@
+{
+  "id": "mig_cq022ibses7pjgp6b7n0",
+  "parentID": "mig_cq022i3ses7pjgp6b7m0",
+  "checksum": "1:471bf1c9ac185cde4946385f4740911e4973e6dd44d9c8a859231c8b1786beb9",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "sessionId",
+          "type": "string"
+        },
+        "table": "n8n"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "type",
+          "type": "string"
+        },
+        "table": "n8n"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "role",
+          "type": "string"
+        },
+        "table": "n8n"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "content",
+          "type": "text"
+        },
+        "table": "n8n"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "name",
+          "type": "string"
+        },
+        "table": "n8n"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "additionalKwargs",
+          "type": "text"
+        },
+        "table": "n8n"
+      }
+    }
+  ]
+}

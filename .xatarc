@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://nexttech3-s-workspace-ofk4sv.us-east-1.xata.sh/db/n8n",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
